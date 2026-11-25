@@ -1,6 +1,5 @@
 # Customer Retention & Campaign ROI Optimization via Uplift Modeling
 
-[![Open In Colab](https://google.com)](https://google.com)
 
 
 ## Resumen Ejecutivo
