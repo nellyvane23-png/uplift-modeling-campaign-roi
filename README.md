@@ -1,6 +1,6 @@
 # Customer Retention & Campaign ROI Optimization via Uplift Modeling
 
-[![Open In Colab](https://google.com)](https://google.com)
+[![Open In Colab](https://google.com)]([https://google.com](https://google.com/drive/1XVVItJ1I1m0YRC4QOwNZRwq12Mf1yI7n#scrollTo=xyKpPP-i_E_R))
 
 ## Resumen Ejecutivo
 Este proyecto desarrolla una solución de **Inferencia Causal y Experimentación A/B** aplicada a estrategias de retención y reactivación de clientes (42,693 registros experimentales). En lugar de enviar promociones masivas o usar modelos tradicionales de propensión que subsidian a clientes orgánicos, se implementó un **T-Learner con LightGBM** para estimar el impacto incremental individual (*Uplift Score*) y maximizar el retorno financiero (ROI) de la campaña.
